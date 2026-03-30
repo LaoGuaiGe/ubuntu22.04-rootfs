@@ -1,8 +1,8 @@
-# Ubuntu for TSPI-M1-RK3566 (Linux 5.10)
+# Ubuntu for TSPI-M1-RK3566 (Linux 6.1)
 
 #### 介绍
 
-为 `TSPI-M1-RK3566` 开发板定制的 Ubuntu 22.04.5 LTS系统，基于Linux 5.10.209内核。支持桌面版(xfce)和服务器版两种构建方式。
+为 `TSPI-M1-RK3566` 开发板定制的 Ubuntu 22.04.5 LTS系统，基于Linux 6.1 内核。支持桌面版(xfce)和服务器版两种构建方式。
 
 #### 软件架构
 
